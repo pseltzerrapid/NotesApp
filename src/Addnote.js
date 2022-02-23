@@ -8,7 +8,7 @@ import {
     retrieveNotes,
     deleteAllNotes 
        } from './actions/notes'
-import { response } from "express";
+
 
 
 const addNote = () => {
